@@ -57,6 +57,8 @@ button:hover{
     border-radius: 20px;
     border: 1px solid whitesmoke;
     transition: ease-in;
+    cursor: pointer;
+
 
 }
 
